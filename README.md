@@ -6,7 +6,7 @@ I will be using this solution to convert doc and docx files to html and txt file
 ## Install LibreOffice
 Libre Office comes preinstalled with many popular distributions but if you do not have it already install below command should do it for you.
 ```
-sudo apt-get install libreoffice-writer
+sudo apt install libreoffice-gnome
 ```
 ## Starting Libre office Server
 ```
